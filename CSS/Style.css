@@ -1,0 +1,166 @@
+h1{
+    color:rgb(170, 18, 18);
+    border: rgb(104, 95, 95);
+    text-decoration-line: underline;
+    
+   
+}
+
+.clr{
+
+    
+    clear: both;
+    margin-top:20px;
+    text-align: center;
+    float: left;
+    width:20%;
+    background-color:white;
+    box-sizing: border-box;
+}
+
+a{
+   text-decoration-style: double;
+   color: rgb(4, 24, 41);
+}
+
+
+
+a:hover{
+    
+    color:red;
+}
+
+a:active{
+    color:blue;
+
+}
+
+
+
+body{
+
+    background-color:lightblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2{
+    
+    font-family: cursive;
+    font-size: 120%;
+    font-weight: bolder;
+
+    line-height: 500px;
+   
+   
+
+}
+
+
+.container{
+
+    width: 80%;
+    margin: auto;
+    
+
+}
+
+.box{
+
+    background-color:greenyellow;
+    color:brown;
+    border-top: 10px blue solid;
+    border-bottom:15px red solid;
+    border-bottom-width: 20px;
+    border-top-style: dotted;
+    border-left:10px green dotted; 
+    border-right:20px brown solid;
+    padding: 20px;
+}
+
+   
+.box h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration-color: brown;
+    text-decoration-line: underline;
+}
+
+
+.box1{
+
+    border: 20px double blueviolet;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding:20px;
+    margin: 20px;
+   
+
+}
+
+.categories{
+
+    border: 50px double green;
+    padding:20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left:50px;
+    margin-bottom: 120px;
+    margin-right:50px;
+
+
+}
+
+.categories h1{
+    text-align: center;
+    text-shadow: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.categories ol{
+    padding:20px;
+    text-align: left;
+    
+}
+
+
+.categories li{
+
+    padding-bottom:4px;
+    border-bottom:double 3px blue;
+    list-style-image: url("https://tse3.mm.bing.net/th?id=OIP.n65gYOF_FdVcj7RkQZraoAHaDK&pid=Api&P=0&w=379&h=163");
+    list-style-position: inside;
+    
+
+}
+
+
+.block{
+
+    float:left;
+    width: 30%;
+    border:2px blue dashed;
+    padding:4px;
+    margin-left: 5px;
+    box-sizing:border-box;
+    margin-top:200px;
+  
+
+
+}
+
+
+.p-box{
+    font-size: 7px;
+    margin-top:900px;
+    border: 2px red double;
+    width: 700px;
+    height:600px;
+    background-image: url("https://i.ytimg.com/vi/PZ7kyNfY5_I/maxresdefault.jpg");
+    background-image: radial-gradient();
+}
+
+.p-box h2{
+    
+    margin-top:220px;
+    font-size: 15px;
+    padding:5px;
+}
